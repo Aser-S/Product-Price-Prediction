@@ -1,6 +1,6 @@
-# Product Price Prediction
-
 ## Overview
+
+**Note:** This repository is private and access is restricted to authorized users only.
 
 This project uses a Random Forest Regressor to predict product prices based on key features extracted from product data. The goal is to automate and improve pricing strategies by providing robust, data-driven price estimates.
 
@@ -31,7 +31,8 @@ This project uses a Random Forest Regressor to predict product prices based on k
 
 ## Installation
 
-1. **Clone the Repository:**
+1. **Clone the Repository:**  
+   *Note: This is a private repository. Ensure you have the necessary permissions to access it.*
    ```bash
    git clone https://github.com/Aser-S/Product-Price-Prediction.git
    ```
@@ -41,7 +42,7 @@ This project uses a Random Forest Regressor to predict product prices based on k
    cd Product-Price-Prediction
    ```
 
-3. **Install Dependencies:**
+3. **Install Dependencies:**  
    If a `requirements.txt` file is provided:
    ```bash
    pip install -r requirements.txt
@@ -87,7 +88,6 @@ This project uses a Random Forest Regressor to predict product prices based on k
 
 For questions or further information, please reach out to:
 
-- **Aser Sherif**  
+- Developed by **Aser Sherif**  
 - Email: [asersherif2004@gmail.com](mailto:asersherif2004@gmail.com)  
 - GitHub: [Aser-S](https://github.com/Aser-S)
-
