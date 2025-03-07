@@ -13,8 +13,6 @@ This project uses a Random Forest Regressor to predict product prices based on k
 - [Usage](#usage)
 - [Model Details](#model-details)
 - [Results](#results)
-- [Future Work](#future-work)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
