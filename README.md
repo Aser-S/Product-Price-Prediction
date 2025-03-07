@@ -1,4 +1,3 @@
-```markdown
 # Product Price Prediction
 
 ## Overview
