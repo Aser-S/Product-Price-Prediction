@@ -1,4 +1,4 @@
-Below is a comprehensive README file tailored for your Product Price Prediction project. This file not only explains the project purpose and methodology but also provides clear instructions on setup, usage, and future enhancements.
+
 
 ---
 
