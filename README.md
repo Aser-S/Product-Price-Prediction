@@ -1,7 +1,3 @@
-
-
----
-
 ```markdown
 # Product Price Prediction
 
@@ -90,26 +86,11 @@ This project uses a Random Forest Regressor to predict product prices based on k
 - **Performance Summary:** Include a brief summary of the model's performance metrics.
 - **Visualizations:** (Optional) Add charts or plots that illustrate model performance and data distribution.
 
-## Future Work
-
-- Explore additional machine learning algorithms and ensemble techniques.
-- Integrate the model into a web application for real-time price predictions.
-- Expand the dataset to include more diverse product features.
-- Implement hyperparameter tuning to further optimize model performance.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 For questions or further information, please reach out to:
 
 - **Aser Sherif**  
-- Email: [your-email@example.com](mailto:your-email@example.com)  
+- Email: [asersherif2004@gmail.com](mailto:asersherif2004@gmail.com)  
 - GitHub: [Aser-S](https://github.com/Aser-S)
 ```
-
----
-
-This README provides a clear structure for potential users or employers to understand your project at a glance. It includes everything from setup and usage instructions to details about the model and future work. Feel free to adjust the sections (like the list of key features or evaluation metrics) according to the specific details of your project.
