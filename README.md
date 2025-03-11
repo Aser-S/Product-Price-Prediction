@@ -28,30 +28,6 @@ This project uses a Random Forest Regressor to predict product prices based on k
 - **NumPy**
 - **Pandas**
 - **Scikit-learn**
-
-## Installation
-
-1. **Clone the Repository:**  
-   *Note: This is a private repository. Ensure you have the necessary permissions to access it.*
-   ```bash
-   git clone https://github.com/Aser-S/Product-Price-Prediction.git
-   ```
-
-2. **Navigate to the Project Directory:**
-   ```bash
-   cd Product-Price-Prediction
-   ```
-
-3. **Install Dependencies:**  
-   If a `requirements.txt` file is provided:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   Otherwise, install the dependencies manually:
-   ```bash
-   pip install numpy pandas scikit-learn
-   ```
-
 ## Usage
 
 ### Data Preparation
