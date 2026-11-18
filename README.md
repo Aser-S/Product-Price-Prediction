@@ -1,69 +1,21 @@
-## Overview
+# 💰 Product Price Prediction
 
-**Note:** This repository is private and access is restricted to authorized users only.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-This project uses a Random Forest Regressor to predict product prices based on key features extracted from product data. The goal is to automate and improve pricing strategies by providing robust, data-driven price estimates.
+A **Random Forest Regressor** that predicts product prices from engineered features of product data, to support data-driven pricing.
 
-## Table of Contents
+## 🧠 Approach
 
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Details](#model-details)
-- [Results](#results)
-- [Contact](#contact)
+- **Data preprocessing**: cleaning the data and engineering features
+- **Model**: Random Forest Regressor (scikit-learn)
+- **Evaluation**: MSE, R² and cross-validation
 
-## Features
+## 🧱 Tech stack
 
-- **Automated Price Prediction:** Leverages machine learning to estimate product prices.
-- **Data Preprocessing:** Cleans and processes input data to ensure quality predictions.
-- **Model Evaluation:** Evaluates model performance using standard metrics.
-- **Modular Design:** Easily update and extend the model with new features or datasets.
+Python · NumPy · Pandas · scikit-learn
 
-## Technologies
+## 📌 Status
 
-- **Python**
-- **NumPy**
-- **Pandas**
-- **Scikit-learn**
-## Usage
-
-### Data Preparation
-
-- Ensure your dataset (e.g., a CSV file) is placed in the appropriate directory.
-- Update the data file path in the script as necessary.
-
-### Training the Model
-
-- Run the training script to preprocess data, train the model, and save the trained model:
-  ```bash
-  python train_model.py
-  ```
-
-### Making Predictions
-
-- Use the prediction script to estimate prices using the saved model:
-  ```bash
-  python predict.py --input <path_to_input_data>
-  ```
-
-## Model Details
-
-- **Algorithm:** Random Forest Regressor
-- **Key Features:** [List key features such as product category, brand, ratings, etc.]
-- **Evaluation Metrics:** Model performance evaluated using metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² score.
-
-## Results
-
-- **Performance Summary:** Include a brief summary of the model's performance metrics.
-- **Visualizations:** (Optional) Add charts or plots that illustrate model performance and data distribution.
-
-## Contact
-
-For questions or further information, please reach out to:
-
-- Developed by **Aser Sherif**  
-- Email: [asersherif2004@gmail.com](mailto:asersherif2004@gmail.com)  
-- GitHub: [Aser-S](https://github.com/Aser-S)
+The source code for this project is currently not included in the repository. The project documents the approach and evaluation.
